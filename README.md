@@ -1,14 +1,11 @@
 # chatterbox
-=========================================================================  
+
 ISTRUZIONI per il progetto 2017/2018
-========================================================================  
 
 Il progetto prevede lo sviluppo di un server concorrente che implementa 
 una chat: chatterbox. Il nome dato al server e' chatty.
   
-------------------------------------------------  
-Estrarre il materiale dal KIT  
-------------------------------------------------  
+Estrarre il materiale dal KIT
 Creare una directory temporanea, copiare kit_chatty.tar    
 nella directory e spostarsi nella directory appena creata. 
 
@@ -47,10 +44,7 @@ README.txt		: questo file
 README.doxygen		: informazioni sul formato doxygen dei commenti alle funzioni 
 			  (FACOLTATIVO)
   
-------------------  
-Come procedere :  
------------------  
-  
+Come procedere :
 1) Leggere attentamente le specifiche. Capire bene il funzionamento del client e di tutti gli 
    script di test forniti dai docenti. Porre particolare attenzione al formato del messaggio
    (vedere file message.h)   
@@ -91,10 +85,7 @@ Come procedere :
   
    e seguire le istruzioni del sito del progetto per la consegna.
      
----------------------------------------  
- NOTE IMPORTANTI: LEGGERE ATTENTAMENTE  
----------------------------------------  
-  
+NOTE IMPORTANTI: LEGGERE ATTENTAMENTE
 1) gli eleborati contenenti tar non creati con "make consegna" o
    comunque che non seguono le istruzioni riportate sopra non verranno
    accettati (gli studenti sono invitati a controllare che il tar
